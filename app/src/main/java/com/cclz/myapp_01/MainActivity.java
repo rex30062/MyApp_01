@@ -4,9 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-
+// test
 public class MainActivity extends AppCompatActivity {
-    // test123
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
