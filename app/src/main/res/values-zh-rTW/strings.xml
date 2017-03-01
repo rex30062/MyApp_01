@@ -3,4 +3,5 @@
     <string name="app_name">My App_01</string>
     <string name="sayHi">嗨嗨，你好</string>
     <string name="test">測試</string>
+    <string name="test2">測試02</string>
 </resources>
