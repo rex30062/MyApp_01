@@ -16,7 +16,7 @@
         android:text="Hello World!" />
 
     <TextView
-        android:text="@string/sayHi"
+        android:text="@string/tx1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/textView2"
@@ -52,8 +52,18 @@
         android:minHeight="1dp"
         android:adjustViewBounds="false"
         android:cropToPadding="false"
-        android:layout_marginStart="111dp"
-        android:layout_alignParentTop="true"
-        android:layout_toEndOf="@+id/textView6" />
+        android:layout_marginStart="233dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toEndOf="@+id/textView3"
+        android:layout_marginBottom="99dp" />
+
+    <Button
+        android:text="@string/tx2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button3"
+        android:onClick="Click1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/textView6" />
 
 </RelativeLayout>
