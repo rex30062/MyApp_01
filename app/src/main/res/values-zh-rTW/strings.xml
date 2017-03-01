@@ -4,4 +4,6 @@
     <string name="sayHi">嗨嗨，你好</string>
     <string name="test">測試</string>
     <string name="test2">測試02</string>
+    <string name="tx1">第一頁</string>
+    <string name="tx2">第二頁</string>
 </resources>

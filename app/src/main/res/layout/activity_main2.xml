@@ -11,9 +11,18 @@
     tools:context="com.cclz.myapp_01.Main2Activity">
 
     <TextView
-        android:text="第二頁"
+        android:text="@string/tx2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:id="@+id/textView4" />
+
+    <Button
+        android:text="@string/tx1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:onClick="Click1"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
